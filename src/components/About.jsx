@@ -5,19 +5,19 @@ const About = () => {
     {
       title: "Who We Are",
       color: "bg-red-200 hover:bg-red-300",
-      img: "src/images/education.png",
+      img: "/education.png",
       desc: "We are a team of passionate developers, educators, and designers dedicated to building intuitive, high-quality e-learning experiences.",
     },
     {
       title: "Our Mission",
       color: "bg-green-200 hover:bg-green-300",
-      img: "src/images/shield.png",
+      img: "/shield.png",
       desc: "To empower learners across the globe by offering flexible, affordable, and practical courses that unlock real-world opportunities.",
     },
     {
       title: "Why Choose Us",
       color: "bg-[#7e87e8] hover:bg-[#6b7cde]",
-      img: "src/images/success.png",
+      img: "/success.png",
       desc: "We combine expert-led content, real-world projects, and supportive mentorship to help you grow confidently in your career journey.",
     },
   ];

@@ -123,7 +123,7 @@ const Home = () => {
 
           {/* Main Image */}
           <motion.img
-            src="/src/images/istockphoto-1478962894-612x612.jpg"
+            src="/istockphoto-1478962894-612x612.jpg"
             alt="E-learning"
             className="relative rounded-2xl shadow-2xl w-full max-w-md object-cover z-10"
             whileHover={{ scale: 1.05, rotate: 1 }}
